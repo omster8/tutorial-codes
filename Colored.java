@@ -1,0 +1,4 @@
+interface Colored
+{
+  String getColor ();
+}
